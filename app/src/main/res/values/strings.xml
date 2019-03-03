@@ -1,0 +1,17 @@
+<resources>
+    <string name="WeatherForecast">Weatheraport</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">fd268631bb989e40e375692330f76cb9</string>
+    <string name="weather_details">Weather Details</string>
+    <string name="add_city">Add City</string>
+    <string name="app_name">Weatheraport</string>
+    <string name="title_add_place">Add the city</string>
+    <string name="edit_txt">Place has been edited</string>
+    <string name="delete_txt">Place has been removed</string>
+    <string name="action_hide">Hide</string>
+    <string name="condition_icon">Condition Icon</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_txt">Developed by Amra Feta     © Copyright 2017 </string>
+    <string name="location">Location</string>
+    <string name="condition_of_the_weather">condition</string>
+
+</resources>
